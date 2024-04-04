@@ -293,7 +293,7 @@ def correcao():
         return invertidos
 
 
-    print("\n Os jogos foram registrados com sucesso!! Aguarde agora a correcao🤞🍀", end="")
+    print("\n  Os jogos foram registrados com sucesso!! Aguarde agora a correcao🤞🍀", end="")
     for i in range(5):
         print(".", end="")
         time.sleep(0.5)

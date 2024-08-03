@@ -1,4 +1,4 @@
-# Corrige Jogo do Bicho
+# Correção Jogo do Bicho
 
 Este programa oferece uma maneira eficiente e automatizada de corrigir suas apostas no Jogo do Bicho, utilizando os resultados da Loteria Federal. Com ele, você pode verificar rapidamente se seus palpites foram bem-sucedidos, sem precisar conferir manualmente cada resultado.
 

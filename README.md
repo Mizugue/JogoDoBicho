@@ -49,7 +49,7 @@ https://www.resultadofacil.com.br/resultado-banca-federal
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Mizugue/JogoDoBicho.git
    
 2. Instale as dependências:
 
